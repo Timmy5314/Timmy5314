@@ -4,7 +4,7 @@
 
 **Stop scrolling. Collect the world for real.**
 
-<a href="https://timmy5314.github.io/cogvivo-community/"><img src="https://timmy5314.github.io/cogvivo-community/badges/ster.svg" width="56" alt="Star"> <img src="https://timmy5314.github.io/cogvivo-community/badges/monument-goud.svg" width="56" alt="Monument"> <img src="https://timmy5314.github.io/cogvivo-community/badges/landen/NL-super.svg" width="56" alt="Superbadge"> <img src="https://timmy5314.github.io/cogvivo-community/badges/landen/JP.svg" width="56" alt="Japan"> <img src="https://timmy5314.github.io/cogvivo-community/badges/ontdekker-goud.svg" width="56" alt="Discoverer"></a>
+<a href="https://timmy5314.github.io/cogvivo-community/"><img src="https://timmy5314.github.io/cogvivo-community/badges/ster.png" width="56" alt="Star"> <img src="https://timmy5314.github.io/cogvivo-community/badges/monument-goud.png" width="56" alt="Monument"> <img src="https://timmy5314.github.io/cogvivo-community/badges/landen/NL-super.png" width="56" alt="Superbadge"> <img src="https://timmy5314.github.io/cogvivo-community/badges/landen/JP.png" width="56" alt="Japan"> <img src="https://timmy5314.github.io/cogvivo-community/badges/ontdekker-goud.png" width="56" alt="Discoverer"></a>
 
 Cogvivo is a free social app for real-life challenges, monuments and a badge for every country, in 12 languages.
 
