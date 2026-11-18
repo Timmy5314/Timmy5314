@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Tim 👋 maker of [Cogvivo](https://cogvivo.com), the real-life challenge app
+## Hi, I'm Tim 👋 maker of [Cogvivo™](https://cogvivo.com), the real-life challenge app
 
 **Stop scrolling. Collect the world for real.**
 
